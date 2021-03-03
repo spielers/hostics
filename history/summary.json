@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 405,
-    "timeWeek": 405,
-    "timeMonth": 405,
-    "timeYear": 405,
+    "time": 308,
+    "timeDay": 308,
+    "timeWeek": 308,
+    "timeMonth": 308,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   },
   {
@@ -28,16 +28,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "time": 189,
+    "timeDay": 189,
+    "timeWeek": 189,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
     "name": "businessengineer.in",
-    "url": "https://businessengineer.in",
+    "url": "http://businessengineer.in",
     "icon": "https://favicons.githubusercontent.com/businessengineer.in",
     "slug": "businessengineer-in",
     "status": "down",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-03": 9
+      "2021-03-03": 16
     }
   },
   {
@@ -60,24 +60,6 @@
     "url": "https://impulse-e-education.site",
     "icon": "https://favicons.githubusercontent.com/impulse-e-education.site",
     "slug": "impulse-e-education-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 197,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "kccbls.tech",
-    "url": "https://kccbls.tech",
-    "icon": "https://favicons.githubusercontent.com/kccbls.tech",
-    "slug": "kccbls-tech",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -92,6 +74,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "kccbls.tech",
+    "url": "https://kccbls.tech",
+    "icon": "https://favicons.githubusercontent.com/kccbls.tech",
+    "slug": "kccbls-tech",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 149,
+    "timeDay": 149,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 149,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "impulse-e-education.site",
     "url": "https://impulse-e-education.site",
     "icon": "https://favicons.githubusercontent.com/impulse-e-education.site",
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 197,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "time": 143,
+    "timeDay": 143,
+    "timeWeek": 143,
+    "timeMonth": 143,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -120,16 +120,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2334,
-    "timeDay": 2334,
-    "timeWeek": 2334,
-    "timeMonth": 2334,
-    "timeYear": 2334,
+    "time": 1620,
+    "timeDay": 1620,
+    "timeWeek": 1620,
+    "timeMonth": 1620,
+    "timeYear": 1620,
     "dailyMinutesDown": {}
   },
   {
     "name": "graphicxpress.in",
-    "url": "https://graphicxpress.in",
+    "url": "http://graphicxpress.in/",
     "icon": "https://favicons.githubusercontent.com/graphicxpress.in",
     "slug": "graphicxpress-in",
     "status": "down",
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-03": 8
+      "2021-03-03": 15
     }
   },
   {
@@ -158,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 116,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "time": 99,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -176,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2402,
-    "timeDay": 2402,
-    "timeWeek": 2402,
-    "timeMonth": 2402,
-    "timeYear": 2402,
+    "time": 2358,
+    "timeDay": 2358,
+    "timeWeek": 2358,
+    "timeMonth": 2358,
+    "timeYear": 2358,
     "dailyMinutesDown": {}
   },
   {
@@ -194,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1039,
-    "timeDay": 1039,
-    "timeWeek": 1039,
-    "timeMonth": 1039,
-    "timeYear": 1039,
+    "time": 989,
+    "timeDay": 989,
+    "timeWeek": 989,
+    "timeMonth": 989,
+    "timeYear": 989,
     "dailyMinutesDown": {}
   },
   {
@@ -212,11 +212,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 116,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "time": 99,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 99,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -230,11 +230,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 218,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {}
   },
   {
@@ -248,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 255,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 255,
+    "time": 181,
+    "timeDay": 181,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -266,11 +266,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 37,
-    "timeDay": 37,
-    "timeWeek": 37,
-    "timeMonth": 37,
-    "timeYear": 37,
+    "time": 32,
+    "timeDay": 32,
+    "timeWeek": 32,
+    "timeMonth": 32,
+    "timeYear": 32,
     "dailyMinutesDown": {}
   },
   {
@@ -279,18 +279,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-03": 8
+      "2021-03-03": 15
     }
   },
   {
@@ -304,11 +304,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 70,
-    "timeDay": 70,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 70,
+    "time": 63,
+    "timeDay": 63,
+    "timeWeek": 63,
+    "timeMonth": 63,
+    "timeYear": 63,
     "dailyMinutesDown": {}
   }
 ]
