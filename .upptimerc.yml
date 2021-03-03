@@ -1,17 +1,37 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: spielers # Your GitHub username
+repo: hostics # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Gamitics
+    url: https://gamitics.com/
+  - name: surajpatil.tech
+    url: http://surajpatil.tech/
+  - name: businessengineer.in
+    url: https://businessengineer.in
+  - name: impulse-e-education.site
+    url: https://impulse-e-education.site
+  - name: kccbls.tech
+    url: https://kccbls.tech
+  - name: impulse-e-education.site
+    url: https://impulse-e-education.site
+  - name: guruashramfaculty.in
+    url: https://guruashramfaculty.in
+  - name: graphicxpress.in 
+    url: https://graphicxpress.in 
+  - name: Aimetix.com
+    url: https://aimetix.com
+  - name: Acmeera.com
+    url: https://acmeera.com
+  - name: longhorns.in
+    url: https://longhorns.in
+  - name: Aimetix.com
+    url: https://aimetix.com
+  - name: harekrishnaredevelopers.site
+    url: https://harekrishnaredevelopers.site
+  - name: sonecacolabeach.com
+    url: https://sonecacolabeach.com
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
@@ -22,7 +42,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: hostics.eu.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
