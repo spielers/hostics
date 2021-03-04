@@ -47,13 +47,13 @@ status-website:
   baseUrl: /hostics
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: hostics
-  introTitle: "**Hostics** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page for hostics a Gamitics.com project
+  introTitle: "**Hostics** is a status page curated by Suraj Patil."
+  introMessage: This is a status page for hostics a (Gamitics.com) project
   navbar:
     - title: Status page 
       href: /hostics
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+
+
