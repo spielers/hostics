@@ -46,7 +46,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: hostics
   introTitle: "**Hostics** is a status page curated by Suraj Patil."
-  introMessage: This is a status page for hostics a (Gamitics.com) project
+  introMessage: Auto monitoring Is *ON*
   navbar:
     - title: Status page 
       href: /hostics
