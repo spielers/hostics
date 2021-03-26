@@ -4,7 +4,7 @@
     "url": "https://gamitics.com/",
     "icon": "https://favicons.githubusercontent.com/gamitics.com",
     "slug": "gamitics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 557,
-    "timeWeek": 641,
+    "timeWeek": 679,
     "timeMonth": 360,
     "timeYear": 360,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "http://surajpatil.tech/",
     "icon": "https://favicons.githubusercontent.com/surajpatil.tech",
     "slug": "surajpatil-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-26": 19,
+      "2021-03-26": 462,
       "2021-03-25": 1440,
       "2021-03-24": 1440,
       "2021-03-23": 1440,
@@ -91,7 +91,7 @@
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 522,
-    "timeWeek": 312,
+    "timeWeek": 285,
     "timeMonth": 240,
     "timeYear": 240,
     "dailyMinutesDown": {}
@@ -127,7 +127,7 @@
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 522,
-    "timeWeek": 312,
+    "timeWeek": 285,
     "timeMonth": 240,
     "timeYear": 240,
     "dailyMinutesDown": {}
@@ -145,7 +145,7 @@
     "uptimeYear": "100.00%",
     "time": 5733,
     "timeDay": 846,
-    "timeWeek": 1288,
+    "timeWeek": 1489,
     "timeMonth": 5733,
     "timeYear": 5733,
     "dailyMinutesDown": {}
@@ -167,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-26": 19,
+      "2021-03-26": 462,
       "2021-03-25": 1440,
       "2021-03-24": 1440,
       "2021-03-23": 1440,
@@ -224,7 +224,7 @@
     "uptimeYear": "100.00%",
     "time": 5843,
     "timeDay": 2096,
-    "timeWeek": 1400,
+    "timeWeek": 1495,
     "timeMonth": 5843,
     "timeYear": 5843,
     "dailyMinutesDown": {}
@@ -242,7 +242,7 @@
     "uptimeYear": "100.00%",
     "time": 1979,
     "timeDay": 542,
-    "timeWeek": 546,
+    "timeWeek": 560,
     "timeMonth": 1979,
     "timeYear": 1979,
     "dailyMinutesDown": {}
