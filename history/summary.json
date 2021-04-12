@@ -22,7 +22,7 @@
     "url": "http://surajpatil.tech/",
     "icon": "https://favicons.githubusercontent.com/surajpatil.tech",
     "slug": "surajpatil-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-12": 1247,
+      "2021-04-12": 1267,
       "2021-04-11": 1440,
       "2021-04-10": 1440,
       "2021-04-09": 1440,
@@ -184,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-12": 1247,
+      "2021-04-12": 1267,
       "2021-04-11": 1440,
       "2021-04-10": 1440,
       "2021-04-09": 1440,
