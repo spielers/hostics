@@ -13,7 +13,7 @@
     "time": 327,
     "timeDay": 157,
     "timeWeek": 316,
-    "timeMonth": 288,
+    "timeMonth": 287,
     "timeYear": 327,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "http://surajpatil.tech/",
     "icon": "https://favicons.githubusercontent.com/surajpatil.tech",
     "slug": "surajpatil-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,7 +31,7 @@
     "time": 612,
     "timeDay": 810,
     "timeWeek": 1046,
-    "timeMonth": 861,
+    "timeMonth": 864,
     "timeYear": 612,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "time": 2312,
     "timeDay": 1172,
     "timeWeek": 1931,
-    "timeMonth": 2355,
+    "timeMonth": 2366,
     "timeYear": 2312,
     "dailyMinutesDown": {
-      "2021-06-20": 1393,
+      "2021-06-20": 1412,
       "2021-06-19": 1440,
       "2021-06-18": 1440,
       "2021-06-17": 1440,
@@ -178,7 +178,7 @@
     "time": 318,
     "timeDay": 190,
     "timeWeek": 167,
-    "timeMonth": 277,
+    "timeMonth": 279,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -196,7 +196,7 @@
     "time": 2154,
     "timeDay": 2038,
     "timeWeek": 2310,
-    "timeMonth": 2689,
+    "timeMonth": 2686,
     "timeYear": 2154,
     "dailyMinutesDown": {}
   },
@@ -214,7 +214,7 @@
     "time": 318,
     "timeDay": 190,
     "timeWeek": 167,
-    "timeMonth": 277,
+    "timeMonth": 279,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -232,7 +232,7 @@
     "time": 3612,
     "timeDay": 2270,
     "timeWeek": 1639,
-    "timeMonth": 3456,
+    "timeMonth": 3489,
     "timeYear": 3612,
     "dailyMinutesDown": {}
   },
@@ -250,10 +250,10 @@
     "time": 388,
     "timeDay": 256,
     "timeWeek": 376,
-    "timeMonth": 372,
+    "timeMonth": 371,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2021-06-20": 1393,
+      "2021-06-20": 1412,
       "2021-06-19": 1440,
       "2021-06-18": 1440,
       "2021-06-17": 1440,
@@ -397,7 +397,7 @@
     "time": 3046,
     "timeDay": 2500,
     "timeWeek": 2527,
-    "timeMonth": 2213,
+    "timeMonth": 2215,
     "timeYear": 3046,
     "dailyMinutesDown": {}
   },
@@ -415,7 +415,7 @@
     "time": 1589,
     "timeDay": 985,
     "timeWeek": 1543,
-    "timeMonth": 1638,
+    "timeMonth": 1649,
     "timeYear": 1589,
     "dailyMinutesDown": {}
   },
@@ -451,7 +451,7 @@
     "time": 179,
     "timeDay": 65,
     "timeWeek": 137,
-    "timeMonth": 141,
+    "timeMonth": 139,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -469,7 +469,7 @@
     "time": 230,
     "timeDay": 94,
     "timeWeek": 130,
-    "timeMonth": 141,
+    "timeMonth": 138,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -487,7 +487,7 @@
     "time": 48,
     "timeDay": 24,
     "timeWeek": 50,
-    "timeMonth": 46,
+    "timeMonth": 45,
     "timeYear": 48,
     "dailyMinutesDown": {}
   },
