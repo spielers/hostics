@@ -31,7 +31,7 @@
     "time": 629,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1045,
+    "timeMonth": 1048,
     "timeYear": 629,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "http://businessengineer.in",
     "icon": "https://favicons.githubusercontent.com/businessengineer.in",
     "slug": "businessengineer-in",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 2228,
     "timeYear": 2329,
     "dailyMinutesDown": {
-      "2021-07-09": 888,
+      "2021-07-09": 901,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
       "2021-07-06": 1440,
@@ -272,7 +272,7 @@
     "timeMonth": 388,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2021-07-09": 888,
+      "2021-07-09": 901,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
       "2021-07-06": 1440,
@@ -417,7 +417,7 @@
     "time": 558,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1213,
+    "timeMonth": 1183,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
@@ -471,7 +471,7 @@
     "time": 558,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1213,
+    "timeMonth": 1183,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
