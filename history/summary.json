@@ -4,17 +4,17 @@
     "url": "https://gamitics.com/",
     "icon": "https://favicons.githubusercontent.com/gamitics.com",
     "slug": "gamitics",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1109,
-    "timeDay": 2361,
-    "timeWeek": 2158,
-    "timeMonth": 2025,
-    "timeYear": 1109,
+    "time": 1114,
+    "timeDay": 2407,
+    "timeWeek": 2166,
+    "timeMonth": 2041,
+    "timeYear": 1114,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeMonth": 2729,
     "timeYear": 2465,
     "dailyMinutesDown": {
-      "2021-07-18": 1393,
+      "2021-07-18": 1400,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
@@ -206,7 +206,7 @@
     "time": 391,
     "timeDay": 282,
     "timeWeek": 193,
-    "timeMonth": 654,
+    "timeMonth": 663,
     "timeYear": 391,
     "dailyMinutesDown": {}
   },
@@ -224,7 +224,7 @@
     "time": 1853,
     "timeDay": 188,
     "timeWeek": 261,
-    "timeMonth": 747,
+    "timeMonth": 703,
     "timeYear": 1853,
     "dailyMinutesDown": {}
   },
@@ -281,7 +281,7 @@
     "timeMonth": 442,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2021-07-18": 1393,
+      "2021-07-18": 1400,
       "2021-07-17": 1440,
       "2021-07-16": 1440,
       "2021-07-15": 1440,
@@ -435,7 +435,7 @@
     "time": 558,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 92,
+    "timeMonth": 0,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
@@ -453,7 +453,7 @@
     "time": 2972,
     "timeDay": 1732,
     "timeWeek": 4364,
-    "timeMonth": 2627,
+    "timeMonth": 2636,
     "timeYear": 2972,
     "dailyMinutesDown": {}
   },
@@ -489,7 +489,7 @@
     "time": 558,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 92,
+    "timeMonth": 0,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
@@ -525,7 +525,7 @@
     "time": 215,
     "timeDay": 205,
     "timeWeek": 160,
-    "timeMonth": 147,
+    "timeMonth": 150,
     "timeYear": 215,
     "dailyMinutesDown": {}
   },
