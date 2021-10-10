@@ -4,16 +4,16 @@
     "url": "https://gamitics.com/",
     "icon": "https://favicons.githubusercontent.com/gamitics.com",
     "slug": "gamitics",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1868,
-    "timeDay": 2121,
-    "timeWeek": 2309,
-    "timeMonth": 2376,
+    "timeDay": 2109,
+    "timeWeek": 2304,
+    "timeMonth": 2374,
     "timeYear": 1868,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "timeMonth": 1247,
     "timeYear": 1899,
     "dailyMinutesDown": {
-      "2021-10-10": 1393,
+      "2021-10-10": 1410,
       "2021-10-09": 1440,
       "2021-10-08": 1440,
       "2021-10-07": 1440,
@@ -365,7 +365,7 @@
     "timeMonth": 664,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2021-10-10": 1394,
+      "2021-10-10": 1410,
       "2021-10-09": 1440,
       "2021-10-08": 1440,
       "2021-10-07": 1440,
@@ -602,7 +602,7 @@
     "uptimeYear": "100.00%",
     "time": 1407,
     "timeDay": 1884,
-    "timeWeek": 6343,
+    "timeWeek": 3572,
     "timeMonth": 3803,
     "timeYear": 1407,
     "dailyMinutesDown": {}
@@ -620,7 +620,7 @@
     "uptimeYear": "100.00%",
     "time": 2543,
     "timeDay": 2393,
-    "timeWeek": 2228,
+    "timeWeek": 2214,
     "timeMonth": 2100,
     "timeYear": 2543,
     "dailyMinutesDown": {}
@@ -638,7 +638,7 @@
     "uptimeYear": "100.00%",
     "time": 1395,
     "timeDay": 971,
-    "timeWeek": 1052,
+    "timeWeek": 1076,
     "timeMonth": 1858,
     "timeYear": 1395,
     "dailyMinutesDown": {}
@@ -656,7 +656,7 @@
     "uptimeYear": "100.00%",
     "time": 1407,
     "timeDay": 1884,
-    "timeWeek": 6343,
+    "timeWeek": 3572,
     "timeMonth": 3803,
     "timeYear": 1407,
     "dailyMinutesDown": {}
@@ -674,7 +674,7 @@
     "uptimeYear": "100.00%",
     "time": 204,
     "timeDay": 184,
-    "timeWeek": 128,
+    "timeWeek": 135,
     "timeMonth": 431,
     "timeYear": 204,
     "dailyMinutesDown": {}
@@ -692,7 +692,7 @@
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 228,
-    "timeWeek": 166,
+    "timeWeek": 174,
     "timeMonth": 397,
     "timeYear": 220,
     "dailyMinutesDown": {}
@@ -710,7 +710,7 @@
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 84,
-    "timeWeek": 73,
+    "timeWeek": 80,
     "timeMonth": 79,
     "timeYear": 63,
     "dailyMinutesDown": {}
@@ -728,7 +728,7 @@
     "uptimeYear": "100.00%",
     "time": 75,
     "timeDay": 72,
-    "timeWeek": 62,
+    "timeWeek": 65,
     "timeMonth": 65,
     "timeYear": 75,
     "dailyMinutesDown": {}
