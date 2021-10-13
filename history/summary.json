@@ -52,7 +52,7 @@
     "timeMonth": 1278,
     "timeYear": 1893,
     "dailyMinutesDown": {
-      "2021-10-13": 698,
+      "2021-10-13": 739,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
       "2021-10-10": 1440,
@@ -356,7 +356,7 @@
     "url": "http://graphicxpress.in/",
     "icon": "https://favicons.githubusercontent.com/graphicxpress.in",
     "slug": "graphicxpress-in",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -368,7 +368,7 @@
     "timeMonth": 660,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2021-10-13": 698,
+      "2021-10-13": 740,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
       "2021-10-10": 1440,
