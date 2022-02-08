@@ -52,7 +52,7 @@
     "timeMonth": 276,
     "timeYear": 1484,
     "dailyMinutesDown": {
-      "2022-02-08": 280,
+      "2022-02-08": 344,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
@@ -486,7 +486,7 @@
     "timeMonth": 371,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2022-02-08": 281,
+      "2022-02-08": 344,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
@@ -854,7 +854,7 @@
     "url": "https://acmeera.com",
     "icon": "https://favicons.githubusercontent.com/acmeera.com",
     "slug": "acmeera-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
