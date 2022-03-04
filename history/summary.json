@@ -4,17 +4,17 @@
     "url": "https://gamitics.com/",
     "icon": "https://favicons.githubusercontent.com/gamitics.com",
     "slug": "gamitics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1930,
-    "timeDay": 1240,
+    "timeDay": 1286,
     "timeWeek": 1245,
     "timeMonth": 1609,
-    "timeYear": 1932,
+    "timeYear": 1934,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 632,
+    "timeYear": 633,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeMonth": 273,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2022-03-04": 272,
+      "2022-03-04": 428,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
@@ -434,7 +434,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 325,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -452,7 +452,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1271,
+    "timeYear": 1277,
     "dailyMinutesDown": {}
   },
   {
@@ -470,7 +470,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 325,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -488,7 +488,7 @@
     "timeDay": 2224,
     "timeWeek": 2840,
     "timeMonth": 5217,
-    "timeYear": 2921,
+    "timeYear": 2930,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 333,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2022-03-04": 272,
+      "2022-03-04": 428,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
@@ -890,7 +890,7 @@
     "timeDay": 9963,
     "timeWeek": 3256,
     "timeMonth": 2503,
-    "timeYear": 2017,
+    "timeYear": 2029,
     "dailyMinutesDown": {}
   },
   {
@@ -908,7 +908,7 @@
     "timeDay": 951,
     "timeWeek": 1669,
     "timeMonth": 5723,
-    "timeYear": 3935,
+    "timeYear": 3943,
     "dailyMinutesDown": {}
   },
   {
@@ -926,7 +926,7 @@
     "timeDay": 115,
     "timeWeek": 116,
     "timeMonth": 130,
-    "timeYear": 1192,
+    "timeYear": 1194,
     "dailyMinutesDown": {}
   },
   {
@@ -944,7 +944,7 @@
     "timeDay": 9963,
     "timeWeek": 3256,
     "timeMonth": 2503,
-    "timeYear": 2017,
+    "timeYear": 2029,
     "dailyMinutesDown": {}
   },
   {
@@ -962,7 +962,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 275,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
@@ -980,7 +980,7 @@
     "timeDay": 2119,
     "timeWeek": 2515,
     "timeMonth": 2456,
-    "timeYear": 635,
+    "timeYear": 637,
     "dailyMinutesDown": {}
   },
   {
@@ -998,7 +998,7 @@
     "timeDay": 68,
     "timeWeek": 42,
     "timeMonth": 55,
-    "timeYear": 61,
+    "timeYear": 62,
     "dailyMinutesDown": {}
   },
   {
