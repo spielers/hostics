@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1927,
-    "timeDay": 2482,
-    "timeWeek": 2055,
-    "timeMonth": 1808,
+    "timeDay": 2714,
+    "timeWeek": 2095,
+    "timeMonth": 1813,
     "timeYear": 1947,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "timeMonth": 304,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2022-03-18": 474,
+      "2022-03-18": 795,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
@@ -488,7 +488,7 @@
     "timeDay": 1779,
     "timeWeek": 1704,
     "timeMonth": 3568,
-    "timeYear": 2612,
+    "timeYear": 2594,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 290,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2022-03-18": 475,
+      "2022-03-18": 795,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
@@ -880,7 +880,7 @@
     "url": "https://aimetix.com",
     "icon": "https://favicons.githubusercontent.com/aimetix.com",
     "slug": "aimetix-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -934,7 +934,7 @@
     "url": "https://aimetix.com",
     "icon": "https://favicons.githubusercontent.com/aimetix.com",
     "slug": "aimetix-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
