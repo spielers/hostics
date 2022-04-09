@@ -13,7 +13,7 @@
     "time": 1930,
     "timeDay": 1594,
     "timeWeek": 1674,
-    "timeMonth": 1936,
+    "timeMonth": 1986,
     "timeYear": 1976,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "http://businessengineer.in",
     "icon": "https://favicons.githubusercontent.com/businessengineer.in",
     "slug": "businessengineer-in",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 307,
     "timeYear": 1335,
     "dailyMinutesDown": {
-      "2022-04-09": 96,
+      "2022-04-09": 739,
       "2022-04-08": 1440,
       "2022-04-07": 1440,
       "2022-04-06": 1440,
@@ -496,7 +496,7 @@
     "url": "http://graphicxpress.in/",
     "icon": "https://favicons.githubusercontent.com/graphicxpress.in",
     "slug": "graphicxpress-in",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -508,7 +508,7 @@
     "timeMonth": 329,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2022-04-09": 96,
+      "2022-04-09": 739,
       "2022-04-08": 1440,
       "2022-04-07": 1440,
       "2022-04-06": 1440,
@@ -898,7 +898,7 @@
     "url": "https://acmeera.com",
     "icon": "https://favicons.githubusercontent.com/acmeera.com",
     "slug": "acmeera-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1015,7 +1015,7 @@
     "time": 70,
     "timeDay": 69,
     "timeWeek": 74,
-    "timeMonth": 58,
+    "timeMonth": 59,
     "timeYear": 70,
     "dailyMinutesDown": {}
   }
