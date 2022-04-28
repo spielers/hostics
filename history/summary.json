@@ -4,16 +4,16 @@
     "url": "https://gamitics.com/",
     "icon": "https://favicons.githubusercontent.com/gamitics.com",
     "slug": "gamitics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1946,
-    "timeDay": 2946,
-    "timeWeek": 2056,
-    "timeMonth": 2245,
+    "timeDay": 3198,
+    "timeWeek": 2125,
+    "timeMonth": 2165,
     "timeYear": 2004,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "timeDay": 389,
     "timeWeek": 304,
     "timeMonth": 286,
-    "timeYear": 1261,
+    "timeYear": 1236,
     "dailyMinutesDown": {
-      "2022-04-28": 352,
+      "2022-04-28": 860,
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
@@ -452,7 +452,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1357,
+    "timeYear": 1353,
     "dailyMinutesDown": {}
   },
   {
@@ -488,7 +488,7 @@
     "timeDay": 2208,
     "timeWeek": 2016,
     "timeMonth": 1955,
-    "timeYear": 2593,
+    "timeYear": 2590,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 276,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-04-28": 352,
+      "2022-04-28": 860,
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
@@ -889,7 +889,7 @@
     "time": 3107,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 8792,
+    "timeMonth": 8524,
     "timeYear": 3623,
     "dailyMinutesDown": {}
   },
@@ -908,7 +908,7 @@
     "timeDay": 399,
     "timeWeek": 235,
     "timeMonth": 472,
-    "timeYear": 3573,
+    "timeYear": 3571,
     "dailyMinutesDown": {}
   },
   {
@@ -926,7 +926,7 @@
     "timeDay": 207,
     "timeWeek": 115,
     "timeMonth": 133,
-    "timeYear": 992,
+    "timeYear": 948,
     "dailyMinutesDown": {}
   },
   {
@@ -943,7 +943,7 @@
     "time": 3107,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 8792,
+    "timeMonth": 8524,
     "timeYear": 3623,
     "dailyMinutesDown": {}
   },
