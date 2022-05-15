@@ -40,7 +40,7 @@
     "url": "http://businessengineer.in",
     "icon": "https://favicons.githubusercontent.com/businessengineer.in",
     "slug": "businessengineer-in",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -50,9 +50,9 @@
     "timeDay": 391,
     "timeWeek": 282,
     "timeMonth": 269,
-    "timeYear": 1167,
+    "timeYear": 1168,
     "dailyMinutesDown": {
-      "2022-05-15": 121,
+      "2022-05-15": 212,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
@@ -452,7 +452,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1202,
+    "timeYear": 1118,
     "dailyMinutesDown": {}
   },
   {
@@ -488,7 +488,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1889,
-    "timeYear": 2587,
+    "timeYear": 2530,
     "dailyMinutesDown": {}
   },
   {
@@ -496,7 +496,7 @@
     "url": "http://graphicxpress.in/",
     "icon": "https://favicons.githubusercontent.com/graphicxpress.in",
     "slug": "graphicxpress-in",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -508,7 +508,7 @@
     "timeMonth": 523,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2022-05-15": 121,
+      "2022-05-15": 212,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
@@ -898,7 +898,7 @@
     "url": "https://acmeera.com",
     "icon": "https://favicons.githubusercontent.com/acmeera.com",
     "slug": "acmeera-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -908,7 +908,7 @@
     "timeDay": 1163,
     "timeWeek": 910,
     "timeMonth": 380,
-    "timeYear": 3518,
+    "timeYear": 3519,
     "dailyMinutesDown": {}
   },
   {
@@ -970,7 +970,7 @@
     "url": "https://sonecacolabeach.com",
     "icon": "https://favicons.githubusercontent.com/sonecacolabeach.com",
     "slug": "sonecacolabeach-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
