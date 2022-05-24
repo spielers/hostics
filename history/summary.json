@@ -32,7 +32,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 882,
+    "timeYear": 884,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeMonth": 336,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2022-05-24": 773,
+      "2022-05-24": 818,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
@@ -508,7 +508,7 @@
     "timeMonth": 518,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2022-05-24": 774,
+      "2022-05-24": 818,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
@@ -1006,16 +1006,16 @@
     "url": "1.1.1.1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 59,
+    "timeDay": 60,
     "timeWeek": 59,
-    "timeMonth": 57,
+    "timeMonth": 58,
     "timeYear": 68,
     "dailyMinutesDown": {}
   }
