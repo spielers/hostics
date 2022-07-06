@@ -4,15 +4,15 @@
     "url": "https://gamitics.com/",
     "icon": "https://favicons.githubusercontent.com/gamitics.com",
     "slug": "gamitics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1981,
-    "timeDay": 3845,
-    "timeWeek": 2388,
+    "time": 1982,
+    "timeDay": 828,
+    "timeWeek": 2432,
     "timeMonth": 1824,
     "timeYear": 2069,
     "dailyMinutesDown": {}
@@ -50,9 +50,9 @@
     "timeDay": 436,
     "timeWeek": 480,
     "timeMonth": 531,
-    "timeYear": 960,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2022-07-06": 931,
+      "2022-07-06": 1377,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
@@ -434,7 +434,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 335,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -470,7 +470,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 335,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 66,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2022-07-06": 931,
+      "2022-07-06": 1377,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
@@ -908,7 +908,7 @@
     "timeDay": 363,
     "timeWeek": 315,
     "timeMonth": 342,
-    "timeYear": 3371,
+    "timeYear": 3375,
     "dailyMinutesDown": {}
   },
   {
@@ -978,7 +978,7 @@
     "uptimeYear": "100.00%",
     "time": 595,
     "timeDay": 201,
-    "timeWeek": 151,
+    "timeWeek": 149,
     "timeMonth": 159,
     "timeYear": 697,
     "dailyMinutesDown": {}
@@ -1014,7 +1014,7 @@
     "uptimeYear": "100.00%",
     "time": 69,
     "timeDay": 98,
-    "timeWeek": 59,
+    "timeWeek": 57,
     "timeMonth": 64,
     "timeYear": 64,
     "dailyMinutesDown": {}
