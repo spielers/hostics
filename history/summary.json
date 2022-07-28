@@ -4,7 +4,7 @@
     "url": "https://gamitics.com/",
     "icon": "https://favicons.githubusercontent.com/gamitics.com",
     "slug": "gamitics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2061,
     "timeDay": 2367,
-    "timeWeek": 3440,
+    "timeWeek": 3416,
     "timeMonth": 2229,
     "timeYear": 2036,
     "dailyMinutesDown": {}
@@ -52,7 +52,7 @@
     "timeMonth": 439,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2022-07-28": 1152,
+      "2022-07-28": 1276,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2022-07-28": 1152,
+      "2022-07-28": 1276,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
