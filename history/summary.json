@@ -4,16 +4,16 @@
     "url": "https://gamitics.com/",
     "icon": "https://favicons.githubusercontent.com/gamitics.com",
     "slug": "gamitics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2126,
-    "timeDay": 2295,
-    "timeWeek": 3096,
-    "timeMonth": 3807,
+    "time": 2122,
+    "timeDay": 2156,
+    "timeWeek": 3055,
+    "timeMonth": 3831,
     "timeYear": 2101,
     "dailyMinutesDown": {}
   },
@@ -28,7 +28,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
+    "time": 788,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -46,13 +46,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1067,
-    "timeDay": 550,
+    "time": 1065,
+    "timeDay": 764,
     "timeWeek": 524,
-    "timeMonth": 603,
-    "timeYear": 744,
+    "timeMonth": 607,
+    "timeYear": 743,
     "dailyMinutesDown": {
-      "2022-08-16": 1225,
+      "2022-08-16": 1411,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
       "2022-08-13": 1440,
@@ -434,7 +434,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 270,
+    "timeYear": 271,
     "dailyMinutesDown": {}
   },
   {
@@ -448,11 +448,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1385,
+    "time": 1387,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 873,
+    "timeYear": 878,
     "dailyMinutesDown": {}
   },
   {
@@ -470,7 +470,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 270,
+    "timeYear": 271,
     "dailyMinutesDown": {}
   },
   {
@@ -488,7 +488,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2518,
+    "timeYear": 2523,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2022-08-16": 1225,
+      "2022-08-16": 1411,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
       "2022-08-13": 1440,
@@ -890,7 +890,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4226,
+    "timeYear": 4234,
     "dailyMinutesDown": {}
   },
   {
@@ -904,11 +904,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3078,
-    "timeDay": 195,
-    "timeWeek": 404,
-    "timeMonth": 368,
-    "timeYear": 3229,
+    "time": 3081,
+    "timeDay": 0,
+    "timeWeek": 365,
+    "timeMonth": 364,
+    "timeYear": 3230,
     "dailyMinutesDown": {}
   },
   {
@@ -922,11 +922,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 99,
+    "time": 835,
+    "timeDay": 222,
     "timeWeek": 155,
-    "timeMonth": 673,
-    "timeYear": 665,
+    "timeMonth": 674,
+    "timeYear": 661,
     "dailyMinutesDown": {}
   },
   {
@@ -944,7 +944,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4226,
+    "timeYear": 4234,
     "dailyMinutesDown": {}
   },
   {
@@ -962,7 +962,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 406,
+    "timeYear": 408,
     "dailyMinutesDown": {}
   },
   {
@@ -976,10 +976,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 164,
-    "timeWeek": 201,
-    "timeMonth": 182,
+    "time": 583,
+    "timeDay": 306,
+    "timeWeek": 207,
+    "timeMonth": 184,
     "timeYear": 699,
     "dailyMinutesDown": {}
   },
@@ -995,7 +995,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 62,
-    "timeDay": 33,
+    "timeDay": 54,
     "timeWeek": 45,
     "timeMonth": 56,
     "timeYear": 62,
@@ -1013,8 +1013,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 68,
-    "timeDay": 44,
-    "timeWeek": 56,
+    "timeDay": 75,
+    "timeWeek": 55,
     "timeMonth": 63,
     "timeYear": 63,
     "dailyMinutesDown": {}
