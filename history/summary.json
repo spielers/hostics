@@ -4,16 +4,16 @@
     "url": "https://gamitics.com/",
     "icon": "https://favicons.githubusercontent.com/gamitics.com",
     "slug": "gamitics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2135,
-    "timeDay": 2351,
-    "timeWeek": 2623,
-    "timeMonth": 3885,
+    "time": 2134,
+    "timeDay": 2807,
+    "timeWeek": 2663,
+    "timeMonth": 3897,
     "timeYear": 2123,
     "dailyMinutesDown": {}
   },
@@ -28,7 +28,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
+    "time": 796,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -47,12 +47,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 800,
-    "timeDay": 813,
-    "timeWeek": 842,
-    "timeMonth": 744,
-    "timeYear": 711,
+    "timeDay": 944,
+    "timeWeek": 641,
+    "timeMonth": 746,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2022-09-02": 1366,
+      "2022-09-02": 1408,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -434,7 +434,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 284,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -448,11 +448,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1287,
+    "time": 1277,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 964,
+    "timeYear": 970,
     "dailyMinutesDown": {}
   },
   {
@@ -470,7 +470,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 284,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -488,7 +488,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2592,
+    "timeYear": 2595,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2022-09-02": 1367,
+      "2022-09-02": 1408,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
@@ -890,7 +890,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4369,
+    "timeYear": 4377,
     "dailyMinutesDown": {}
   },
   {
@@ -904,11 +904,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3085,
-    "timeDay": 303,
-    "timeWeek": 352,
-    "timeMonth": 389,
-    "timeYear": 3263,
+    "time": 3083,
+    "timeDay": 301,
+    "timeWeek": 346,
+    "timeMonth": 375,
+    "timeYear": 3260,
     "dailyMinutesDown": {}
   },
   {
@@ -922,10 +922,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 146,
-    "timeWeek": 122,
-    "timeMonth": 671,
+    "time": 770,
+    "timeDay": 179,
+    "timeWeek": 127,
+    "timeMonth": 670,
     "timeYear": 633,
     "dailyMinutesDown": {}
   },
@@ -944,7 +944,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4369,
+    "timeYear": 4377,
     "dailyMinutesDown": {}
   },
   {
@@ -958,11 +958,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
+    "time": 291,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 448,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   },
   {
@@ -977,8 +977,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 579,
-    "timeDay": 170,
-    "timeWeek": 145,
+    "timeDay": 221,
+    "timeWeek": 150,
     "timeMonth": 179,
     "timeYear": 701,
     "dailyMinutesDown": {}
@@ -995,8 +995,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 62,
-    "timeDay": 50,
-    "timeWeek": 84,
+    "timeDay": 52,
+    "timeWeek": 50,
     "timeMonth": 54,
     "timeYear": 62,
     "dailyMinutesDown": {}
@@ -1013,9 +1013,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 67,
-    "timeWeek": 68,
-    "timeMonth": 59,
+    "timeDay": 29,
+    "timeWeek": 57,
+    "timeMonth": 57,
     "timeYear": 64,
     "dailyMinutesDown": {}
   }
