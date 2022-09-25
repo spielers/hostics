@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 2917,
     "timeMonth": 2803,
-    "timeYear": 2132,
+    "timeYear": 2130,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeMonth": 909,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2022-09-25": 898,
+      "2022-09-25": 1049,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2022-09-25": 898,
+      "2022-09-25": 1050,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
@@ -898,13 +898,13 @@
     "url": "https://acmeera.com",
     "icon": "https://favicons.githubusercontent.com/acmeera.com",
     "slug": "acmeera-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3001,
+    "time": 3004,
     "timeDay": 1794,
     "timeWeek": 840,
     "timeMonth": 463,
