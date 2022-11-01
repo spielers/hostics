@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 2130,
     "timeDay": 1758,
-    "timeWeek": 2765,
-    "timeMonth": 2472,
+    "timeWeek": 2790,
+    "timeMonth": 2455,
     "timeYear": 2109,
     "dailyMinutesDown": {}
   },
@@ -40,19 +40,20 @@
     "url": "http://businessengineer.in",
     "icon": "https://favicons.githubusercontent.com/businessengineer.in",
     "slug": "businessengineer-in",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 718,
+    "time": 717,
     "timeDay": 568,
-    "timeWeek": 339,
-    "timeMonth": 515,
+    "timeWeek": 325,
+    "timeMonth": 525,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-10-31": 1399,
+      "2022-11-01": 62,
+      "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
@@ -415,8 +416,7 @@
       "2021-11-05": 1440,
       "2021-11-04": 1440,
       "2021-11-03": 1440,
-      "2021-11-02": 1440,
-      "2021-11-01": 1440
+      "2021-11-02": 1440
     }
   },
   {
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2022-10-31": 1399,
+      "2022-11-01": 62,
+      "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
@@ -871,8 +872,7 @@
       "2021-11-05": 1440,
       "2021-11-04": 1440,
       "2021-11-03": 1440,
-      "2021-11-02": 1440,
-      "2021-11-01": 1440
+      "2021-11-02": 1440
     }
   },
   {
@@ -907,7 +907,7 @@
     "time": 2971,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 562,
+    "timeMonth": 566,
     "timeYear": 3071,
     "dailyMinutesDown": {}
   },
@@ -924,8 +924,8 @@
     "uptimeYear": "100.00%",
     "time": 623,
     "timeDay": 133,
-    "timeWeek": 108,
-    "timeMonth": 161,
+    "timeWeek": 104,
+    "timeMonth": 163,
     "timeYear": 396,
     "dailyMinutesDown": {}
   },
@@ -978,8 +978,8 @@
     "uptimeYear": "100.00%",
     "time": 588,
     "timeDay": 186,
-    "timeWeek": 163,
-    "timeMonth": 222,
+    "timeWeek": 160,
+    "timeMonth": 223,
     "timeYear": 679,
     "dailyMinutesDown": {}
   },
@@ -996,8 +996,8 @@
     "uptimeYear": "100.00%",
     "time": 67,
     "timeDay": 47,
-    "timeWeek": 38,
-    "timeMonth": 80,
+    "timeWeek": 37,
+    "timeMonth": 81,
     "timeYear": 64,
     "dailyMinutesDown": {}
   },
@@ -1006,15 +1006,15 @@
     "url": "1.1.1.1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 64,
+    "time": 68,
     "timeDay": 42,
-    "timeWeek": 46,
+    "timeWeek": 42,
     "timeMonth": 79,
     "timeYear": 64,
     "dailyMinutesDown": {}
