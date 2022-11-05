@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 2130,
     "timeDay": 0,
-    "timeWeek": 2607,
-    "timeMonth": 2462,
-    "timeYear": 2103,
+    "timeWeek": 2569,
+    "timeMonth": 2469,
+    "timeYear": 2102,
     "dailyMinutesDown": {}
   },
   {
@@ -28,7 +28,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
+    "time": 409,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -46,13 +46,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 710,
-    "timeDay": 201,
-    "timeWeek": 361,
-    "timeMonth": 535,
-    "timeYear": 527,
+    "time": 708,
+    "timeDay": 352,
+    "timeWeek": 373,
+    "timeMonth": 529,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2022-11-05": 1354,
+      "2022-11-05": 1425,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
@@ -434,7 +434,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 397,
+    "timeYear": 402,
     "dailyMinutesDown": {}
   },
   {
@@ -448,11 +448,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
+    "time": 712,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1595,
+    "timeYear": 1614,
     "dailyMinutesDown": {}
   },
   {
@@ -470,7 +470,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 397,
+    "timeYear": 402,
     "dailyMinutesDown": {}
   },
   {
@@ -488,7 +488,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3001,
+    "timeYear": 3007,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-11-05": 1354,
+      "2022-11-05": 1425,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
@@ -886,11 +886,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4417,
+    "time": 4427,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4811,
+    "timeYear": 4824,
     "dailyMinutesDown": {}
   },
   {
@@ -904,11 +904,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2976,
+    "time": 2978,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 681,
-    "timeYear": 3084,
+    "timeMonth": 710,
+    "timeYear": 3087,
     "dailyMinutesDown": {}
   },
   {
@@ -923,9 +923,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 616,
-    "timeDay": 100,
-    "timeWeek": 117,
-    "timeMonth": 166,
+    "timeDay": 160,
+    "timeWeek": 128,
+    "timeMonth": 164,
     "timeYear": 392,
     "dailyMinutesDown": {}
   },
@@ -940,11 +940,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4417,
+    "time": 4427,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 4811,
+    "timeYear": 4824,
     "dailyMinutesDown": {}
   },
   {
@@ -958,11 +958,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
+    "time": 335,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 298,
+    "timeYear": 302,
     "dailyMinutesDown": {}
   },
   {
@@ -977,9 +977,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
-    "timeDay": 149,
-    "timeWeek": 173,
-    "timeMonth": 227,
+    "timeDay": 189,
+    "timeWeek": 182,
+    "timeMonth": 222,
     "timeYear": 680,
     "dailyMinutesDown": {}
   },
@@ -995,9 +995,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 35,
-    "timeWeek": 41,
-    "timeMonth": 83,
+    "timeDay": 128,
+    "timeWeek": 54,
+    "timeMonth": 85,
     "timeYear": 64,
     "dailyMinutesDown": {}
   },
@@ -1006,16 +1006,16 @@
     "url": "1.1.1.1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 52,
-    "timeWeek": 58,
-    "timeMonth": 68,
+    "timeDay": 54,
+    "timeWeek": 59,
+    "timeMonth": 69,
     "timeYear": 64,
     "dailyMinutesDown": {}
   }
