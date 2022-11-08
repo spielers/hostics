@@ -13,8 +13,8 @@
     "time": 2118,
     "timeDay": 0,
     "timeWeek": 2619,
-    "timeMonth": 2464,
-    "timeYear": 2092,
+    "timeMonth": 2445,
+    "timeYear": 2089,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,11 @@
     "time": 703,
     "timeDay": 472,
     "timeWeek": 362,
-    "timeMonth": 512,
+    "timeMonth": 522,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2022-11-07": 1400,
+      "2022-11-08": 116,
+      "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
@@ -415,8 +416,7 @@
       "2021-11-12": 1440,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
-      "2021-11-09": 1440,
-      "2021-11-08": 1440
+      "2021-11-09": 1440
     }
   },
   {
@@ -508,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-11-07": 1400,
+      "2022-11-08": 117,
+      "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
@@ -871,8 +872,7 @@
       "2021-11-12": 1440,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
-      "2021-11-09": 1440,
-      "2021-11-08": 1440
+      "2021-11-09": 1440
     }
   },
   {
@@ -907,7 +907,7 @@
     "time": 2981,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 283,
+    "timeMonth": 281,
     "timeYear": 3093,
     "dailyMinutesDown": {}
   },
@@ -925,7 +925,7 @@
     "time": 615,
     "timeDay": 134,
     "timeWeek": 130,
-    "timeMonth": 163,
+    "timeMonth": 166,
     "timeYear": 387,
     "dailyMinutesDown": {}
   },
@@ -979,7 +979,7 @@
     "time": 588,
     "timeDay": 202,
     "timeWeek": 187,
-    "timeMonth": 221,
+    "timeMonth": 223,
     "timeYear": 680,
     "dailyMinutesDown": {}
   },
@@ -997,7 +997,7 @@
     "time": 67,
     "timeDay": 50,
     "timeWeek": 55,
-    "timeMonth": 84,
+    "timeMonth": 86,
     "timeYear": 64,
     "dailyMinutesDown": {}
   },
@@ -1013,7 +1013,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 57,
+    "timeDay": 60,
     "timeWeek": 61,
     "timeMonth": 68,
     "timeYear": 64,
