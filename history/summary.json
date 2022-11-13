@@ -13,7 +13,7 @@
     "time": 2098,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2500,
+    "timeMonth": 2505,
     "timeYear": 2043,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "time": 696,
     "timeDay": 672,
     "timeWeek": 436,
-    "timeMonth": 445,
+    "timeMonth": 437,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2022-11-13": 1397,
+      "2022-11-13": 1408,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2022-11-13": 1398,
+      "2022-11-13": 1409,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
@@ -907,7 +907,7 @@
     "time": 2989,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 254,
+    "timeMonth": 241,
     "timeYear": 3034,
     "dailyMinutesDown": {}
   },
@@ -925,7 +925,7 @@
     "time": 604,
     "timeDay": 188,
     "timeWeek": 144,
-    "timeMonth": 163,
+    "timeMonth": 164,
     "timeYear": 372,
     "dailyMinutesDown": {}
   },
@@ -979,7 +979,7 @@
     "time": 589,
     "timeDay": 269,
     "timeWeek": 194,
-    "timeMonth": 214,
+    "timeMonth": 215,
     "timeYear": 680,
     "dailyMinutesDown": {}
   },
@@ -997,7 +997,7 @@
     "time": 67,
     "timeDay": 52,
     "timeWeek": 43,
-    "timeMonth": 76,
+    "timeMonth": 77,
     "timeYear": 63,
     "dailyMinutesDown": {}
   },
@@ -1006,7 +1006,7 @@
     "url": "1.1.1.1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1015,7 +1015,7 @@
     "time": 63,
     "timeDay": 45,
     "timeWeek": 56,
-    "timeMonth": 62,
+    "timeMonth": 61,
     "timeYear": 63,
     "dailyMinutesDown": {}
   }
