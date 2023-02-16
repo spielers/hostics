@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2323,
+    "timeYear": 2325,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeMonth": 359,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2023-02-16": 99,
+      "2023-02-16": 314,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2023-02-16": 99,
+      "2023-02-16": 314,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
@@ -916,17 +916,17 @@
     "url": "https://longhorns.in",
     "icon": "https://favicons.githubusercontent.com/longhorns.in",
     "slug": "longhorns-in",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 93,
-    "timeWeek": 92,
-    "timeMonth": 129,
-    "timeYear": 194,
+    "time": 405,
+    "timeDay": 345,
+    "timeWeek": 155,
+    "timeMonth": 144,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
