@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2482,
+    "timeYear": 2488,
     "dailyMinutesDown": {}
   },
   {
@@ -40,7 +40,7 @@
     "url": "http://businessengineer.in",
     "icon": "https://favicons.githubusercontent.com/businessengineer.in",
     "slug": "businessengineer-in",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -52,7 +52,7 @@
     "timeMonth": 499,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-03-17": 86,
+      "2023-03-17": 950,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
@@ -508,7 +508,7 @@
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-03-17": 86,
+      "2023-03-17": 950,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
